@@ -23,7 +23,7 @@ function Navbar(props) {
 
                     <li className="nav-item">
                         <a className="nav-link js-scroll-trigger text-justify float-left"
-                           href="#publications">publications</a>
+                           href="/">publications</a>
                     </li>
                     <li className="nav-item">
                         <a className="nav-link js-scroll-trigger text-justify float-left" href="#workingExperience">Working
@@ -54,8 +54,6 @@ function Navbar(props) {
                 </ul>
             </div>
         </nav>
-
-
     );
 }
 
