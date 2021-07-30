@@ -1,6 +1,6 @@
 import React from "react";
 
-function Home(props) {
+function About(props) {
     return (
         <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
             <div className="w-100">
@@ -38,8 +38,7 @@ function Home(props) {
             </div>
         </section>
 
-    // <hr className="m-0">
     );
 }
 
-export default Home;
+export default About;
