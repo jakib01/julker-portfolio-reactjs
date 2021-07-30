@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4fc78b42-9ad6-4f0b-b38e-71baba4191e8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +22,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../React-Learning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CRUD-table-React" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -43,7 +48,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626723717238</updated>
-      <workItem from="1626723741051" duration="18146000" />
+      <workItem from="1626723741051" duration="18222000" />
+      <workItem from="1626943256711" duration="1190000" />
+      <workItem from="1626946590670" duration="1747000" />
+      <workItem from="1627112071073" duration="4821000" />
+      <workItem from="1627188966777" duration="84000" />
+      <workItem from="1627644810815" duration="2428000" />
     </task>
     <servers />
   </component>
