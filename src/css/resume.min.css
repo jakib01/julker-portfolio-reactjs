@@ -80,7 +80,12 @@ p.lead {
 #sideNav .navbar-nav .nav-item .nav-link {
     font-weight: 800;
     letter-spacing: .05rem;
-    text-transform: uppercase
+    text-transform: uppercase;
+    float: left;
+}
+
+.navbar-nav{
+    padding-left: 15px !important;
 }
 
 #sideNav .navbar-toggler:focus {

@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from 'react-router-dom';
+import {Link} from 'react-router-dom';
 
 function Navbar(props) {
     return (
@@ -19,7 +19,7 @@ function Navbar(props) {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav">
                     <li className="nav-item">
-                        <Link className="nav-link js-scroll-trigger text-justify float-left"  to="/">About</Link>
+                        <Link className="nav-link js-scroll-trigger text-justify float-left" to="/">About</Link>
                     </li>
 
                     <li className="nav-item">
@@ -27,25 +27,31 @@ function Navbar(props) {
                               to="/publications">publications</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link js-scroll-trigger text-justify float-left" to="/working-experience">Working Experience</Link>
+                        <Link className="nav-link js-scroll-trigger text-justify float-left" to="/working-experience">Working
+                            Experience</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link js-scroll-trigger text-justify float-left" to="/research">Research</Link>
+                        <Link className="nav-link js-scroll-trigger text-justify float-left"
+                              to="/research">Research</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link js-scroll-trigger text-justify float-left" to="/education">Education</Link>
+                        <Link className="nav-link js-scroll-trigger text-justify float-left"
+                              to="/education">Education</Link>
                     </li>
                     <li className="nav-item">
                         <Link className="nav-link js-scroll-trigger text-justify float-left" to="/skills">Skills</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link js-scroll-trigger text-justify float-left" to="/web-projects">Web Projects</Link>
+                        <Link className="nav-link js-scroll-trigger text-justify float-left" to="/web-projects">Web
+                            Projects</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link js-scroll-trigger text-justify float-left" to="/hardware-projects">Hardware Projects</Link>
+                        <Link className="nav-link js-scroll-trigger text-justify float-left" to="/hardware-projects">Hardware
+                            Projects</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link js-scroll-trigger text-justify float-left" to="/awards">Awards/Achievement</Link>
+                        <Link className="nav-link js-scroll-trigger text-justify float-left"
+                              to="/awards">Awards/Achievement</Link>
                     </li>
                 </ul>
             </div>
