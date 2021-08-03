@@ -42,7 +42,7 @@ function Research(props) {
 
                     <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div className="resume-content">
-                            <h3 className="mb-0">Road Surface Assessment Using Ultrasonic Sensor</h3>
+                            <h3 className="mb-3">Road Surface Assessment Using Ultrasonic Sensor</h3>
                             <p>This work examines the method of classification of road surface based on
                                 backscattered
                                 ultrasonic signal analysis. The fancy of our study is the extraction of signal
@@ -73,7 +73,7 @@ function Research(props) {
 
                     <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div className="resume-content">
-                            <h3 className="mb-0">Emotion Classification From Bangla Audio</h3>
+                            <h3 className="mb-3">Emotion Classification From Bangla Audio</h3>
 
                             <p>Speech recognition is now an area where a lot of research is being done. Our main
                                 goal is to have emotion Detection by voice through the machine for Bangla language.
@@ -101,7 +101,7 @@ function Research(props) {
 
                     <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div className="resume-content">
-                            <h3 className="mb-0">Doctors Handwriting Recognition Using Machine Learning</h3>
+                            <h3 className="mb-3">Doctors Handwriting Recognition Using Machine Learning</h3>
                             <p>Offline handwritten character recognition is a process where a machine will recognize
                                 what is written in an image of handwritten script. We are going to recognize
                                 doctor’s handwriting from a prescription. So the selection of a good feature extraction
