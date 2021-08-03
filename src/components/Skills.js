@@ -75,7 +75,7 @@ function Skills(props) {
                 </ul>
 
 
-                <div className="subheading mb-3">Skills</div>
+                <div className="subheading mt-3 mb-3">Skills</div>
 
                 <div className="row">
                     <div className="col-md-6">

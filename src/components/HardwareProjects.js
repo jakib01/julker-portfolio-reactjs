@@ -6,10 +6,9 @@ function HardwareProjects(props) {
             <div class="w-100">
                 <h2 class="mb-5">Hardware Projects</h2>
 
-                <div class="resume-item d-flex flex-column ">
-
+                <div class="resume-item d-flex flex-column mb-5">
                     <div class="resume-content">
-                        <h3 class="mb-0">UIU Bus live Tracing System</h3>
+                        <h3 class="mb-3">UIU Bus live Tracing System</h3>
                         <p>UIU Bus Live is a software to provide UIU Students & faculty members to provide live bus
                             locations during the journey from their home to UIU. This will also provide them real-time
                             bus
@@ -31,9 +30,12 @@ function HardwareProjects(props) {
                             </div>
                         </div>
                     </div>
-                    <div class="resume-item d-flex flex-column">
+                </div>
+
+
+                <div class="resume-item d-flex flex-column mb-5">
                         <div class="resume-content">
-                            <h3 class="mb-0">Battle Bot</h3>
+                            <h3 class="mb-3">Battle Bot</h3>
                             <p>This work examines the method of classification of road surface based on backscattered
                                 ultrasonic signal analysis. The fancy of our study is the extraction of signal features
                                 for
@@ -62,9 +64,9 @@ function HardwareProjects(props) {
                         </div>
                     </div>
 
-                    <div class="resume-item d-flex flex-column">
+                    <div class="resume-item d-flex flex-column mb-5">
                         <div class="resume-content">
-                            <h3 class="mb-0">Robotic Arm with wheels</h3>
+                            <h3 class="mb-3">Robotic Arm with wheels</h3>
                             <p>This is my first project. The main idea of the project is to pick up some obstacle. This
                                 small car can be used in Army or Industrial. Like the can be controlled with controller
                                 and
@@ -78,7 +80,7 @@ function HardwareProjects(props) {
                             </div>
                         </div>
                     </div>
-                </div>
+
             </div>
         </section>
     );

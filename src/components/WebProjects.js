@@ -6,7 +6,7 @@ function WebProjects(props) {
             <div className="w-100">
                 <h2 className="mb-5">Projects</h2>
                 <h3>Web Project</h3>
-                <ul className="fa-ul mb-1">
+                <ul className="fa-ul mb-5">
                     <li>
                         <a href="https://github.com/jakib01/Gallary-Foods-Limited" >1.
                             E-commerce(Dibbo).</a>
@@ -23,7 +23,7 @@ function WebProjects(props) {
                     </li>
                 </ul>
                 <h3>React</h3>
-                <ul className="fa-ul mb-1">
+                <ul className="fa-ul mb-5">
                     <li>
                         <a href="https://github.com/jakib01/CRUD-table-React" >1. React
                             table CRUD for with Restful API.</a>
@@ -34,7 +34,7 @@ function WebProjects(props) {
                     </li>
                 </ul>
                 <h3>Mobile Application(Android)</h3>
-                <ul className="fa-ul mb-1">
+                <ul className="fa-ul mb-5">
                     <li>
                         <a href="https://github.com/jakib01/UIUBusLive">1. UIUBusLive</a>
                     </li>
