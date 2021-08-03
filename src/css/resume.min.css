@@ -88,6 +88,8 @@ p.lead {
     padding-left: 15px !important;
 }
 
+
+
 #sideNav .navbar-toggler:focus {
     outline-color: #d48a6e
 }
@@ -174,7 +176,8 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-    color: #bd5d38
+    color: #bd5d38;
+    text-decoration:none !important;
 }
 
 a:active, a:focus, a:hover {
