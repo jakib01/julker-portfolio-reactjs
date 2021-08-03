@@ -25,6 +25,7 @@ function HardwareProjects(props) {
                                 <img class="" width="75%" src="images/gps.JPG" alt=""/>
                             </div>
                             <div class="col">
+                                {/* eslint-disable-next-line jsx-a11y/iframe-has-title */}
                                 <iframe width="460" height="300"
                                         src="https://www.youtube.com/embed/xDj9efaJrb8?autoplay=0"/>
                             </div>
