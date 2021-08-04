@@ -49,7 +49,7 @@ function Skills(props) {
                     </li>
                     <li>
                         <i className="fa-li fa fa-check"></i>
-                        C/C++
+                        C/C#
                     </li>
                     <li>
                         <i className="fa-li fa fa-check"></i>
@@ -118,6 +118,10 @@ function Skills(props) {
 
                     <div className="col-md-6">
                         <ul className="fa-ul mb-0">
+                            <li>
+                                <i className="fa-li fa fa-check"></i>
+                                ASP.NET,
+                            </li>
                             <li>
                                 <i className="fa-li fa fa-check"></i>
                                 Restful API,
