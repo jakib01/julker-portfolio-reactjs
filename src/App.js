@@ -1,6 +1,3 @@
-import '../node_modules/bootstrap/dist/css/bootstrap.css'
-import '../node_modules/@fortawesome/fontawesome-free/css/all.min.css';
-import './css/resume.min.css';
 import Navbar from './components/Navbar'
 import About from './components/About';
 import Publications from './components/Publications';
