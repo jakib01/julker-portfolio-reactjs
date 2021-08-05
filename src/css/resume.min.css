@@ -233,3 +233,7 @@ ul.timeline > li:before {
 .timeline-subSubHeading{
     text-transform: capitalize;
 }
+
+.ml-2 {
+    margin-left: 10px !important;
+}
